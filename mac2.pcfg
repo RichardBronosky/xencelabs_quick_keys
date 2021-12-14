@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+  <PenTableLists version="1.0.0">
+    <M436f7b76e9c3>
+      <Remote rotation="1" id="0" name="Tasha Quick Keys">
+        <Default>
+          <K>
+            <K1 Actid="2" id="2" Show="1" Motid="1">2|*#Undo|Ctrl+Z|65507:37+122:44</K1>
+            <K2 Actid="2" id="2" Show="1" Motid="2">2|*#Redo|Ctrl+Shift+Z|65507:37+65505:42+122:44</K2>
+            <K3 Actid="2" id="2" Show="1" Motid="3">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+            <K4 Actid="2" id="2" Show="1" Motid="4">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+            <K5 Actid="2" id="2" Show="1" Motid="5">2|Shift|Shift|65505:42</K5>
+            <K6 Actid="2" id="2" Show="1" Motid="6">2|Control|Ctrl|65507:29</K6>
+            <K7 Actid="2" id="2" Show="1" Motid="7">2|Alt|Alt|65513:56</K7>
+            <K8 Actid="2" id="2" Show="1" Motid="8">2|*#Space|Space|32:57</K8>
+            <K9 Actid="0" id="0" Show="1" Motid="9"/>
+            <K10 Actid="0" id="0" Show="1" Motid="10"/>
+          </K>
+          <R wid="1">
+            <W1 enable="1" colorbright="2" id="1" color="6" orderid="1" speed="3" name=""/>
+            <W2 enable="1" colorbright="2" id="2" color="7" orderid="2" speed="3" name=""/>
+            <W3 enable="1" colorbright="2" id="3" color="5" orderid="3" speed="3" name=""/>
+            <W4 enable="1" colorbright="2" id="4" color="4" orderid="4" speed="3" name="">4|*#Brush Size|[|]|91:26|93:27</W4>
+          </R>
+        </Default>
+        <CommonAPP>
+          <K>
+            <Set enable="1" id="0" name="Linux">
+              <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+              <K2 Actid="2" id="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+              <K3 Actid="2" id="2">2|CLI Copy|Ctrl+Shift+C|65507:37+65505:50+67:54</K3>
+              <K4 Actid="2" id="2">2|CLI Paste|Ctrl+Shift+V|65507:37+65505:50+86:55</K4>
+              <K5 Actid="2" id="2">2|Next Win|Super+`|65515:133+96:49</K5>
+              <K6 Actid="2" id="2">2|Next App|Super+Tab|65515:133+65289:23</K6>
+              <K7 Actid="2" id="2">2|Copy|Ctrl+C|65507:37+99:54</K7>
+              <K8 Actid="2" id="2">2|Paste|Ctrl+V|65507:37+118:55</K8>
+            </Set>
+            <Set enable="1" id="1" name="Mac">
+              <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+              <K2 Actid="2" id="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+              <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+              <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+              <K5 Actid="2" id="2">2|Shift|Shift|65505:42</K5>
+              <K6 Actid="2" id="2">2|Control|Ctrl|65507:29</K6>
+              <K7 Actid="2" id="2">2|Alt|Alt|65513:56</K7>
+              <K8 Actid="2" id="2">2|*#Space|Space|32:57</K8>
+            </Set>
+            <Set enable="1" id="2" name="Web Media">
+              <K1 Actid="2" id="2">2|Play/Pause|Space|32:65</K1>
+              <K2 Actid="2" id="2">2|Back|Left|65361:113</K2>
+              <K3 Actid="2" id="2">2|Forward|Right|65363:114</K3>
+              <K4 Actid="2" id="2">2|Darken|Monitor Brightness Down|269025027:232</K4>
+              <K5 Actid="2" id="2">2|Play/Pause|Space|32:65</K5>
+              <K6 Actid="2" id="2">2|Back|Left|65361:113</K6>
+              <K7 Actid="2" id="2">2|Forward|Right|65363:114</K7>
+              <K8 Actid="2" id="2">2|Brighten|Monitor Brightness Up|269025026:233</K8>
+            </Set>
+            <Set enable="0" id="3" name="">
+              <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+              <K2 Actid="2" id="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+              <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+              <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+              <K5 Actid="2" id="2">2|Shift|Shift|65505:42</K5>
+              <K6 Actid="2" id="2">2|Control|Ctrl|65507:29</K6>
+              <K7 Actid="2" id="2">2|Alt|Alt|65513:56</K7>
+              <K8 Actid="2" id="2">2|*#Space|Space|32:57</K8>
+            </Set>
+            <Set enable="0" id="4" name="">
+              <K1 Actid="2" id="2">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+              <K2 Actid="2" id="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+              <K3 Actid="2" id="2">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+              <K4 Actid="2" id="2">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+              <K5 Actid="2" id="2">2|Shift|Shift|65505:42</K5>
+              <K6 Actid="2" id="2">2|Control|Ctrl|65507:29</K6>
+              <K7 Actid="2" id="2">2|Alt|Alt|65513:56</K7>
+              <K8 Actid="2" id="2">2|*#Space|Space|32:57</K8>
+            </Set>
+          </K>
+          <R wid="3">
+            <W1 enable="1" colorbright="2" id="1" color="4" orderid="1" speed="3" name=""/>
+            <W2 enable="1" colorbright="2" id="2" color="7" orderid="2" speed="3" name=""/>
+            <W3 enable="1" colorbright="3" id="4" color="0" orderid="3" speed="1" name="">4|Volume|Volume Down|Volume Up|269025041:122|269025043:123</W3>
+            <W4 enable="0" colorbright="2" id="4" color="4" orderid="4" speed="3" name="">4|*#Brush Size|[|]|91:26|93:27</W4>
+          </R>
+        </CommonAPP>
+        <Apps/>
+      </Remote>
+    </M436f7b76e9c3>
+  </PenTableLists>
+  <Tools>
+    <Radial name="">
+      <Default>
+        <K>
+          <K1 lock="0" Actid="2" id="2" Motid="1">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+          <K2 lock="0" Actid="2" id="2" Motid="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+          <K3 lock="0" Actid="2" id="2" Motid="3">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+          <K4 lock="0" Actid="2" id="2" Motid="4">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+          <K5 lock="0" Actid="2" id="2" Motid="5">2|*#Save|Ctrl+S|65507:29+83:31</K5>
+          <K6 lock="0" Actid="2" id="2" Motid="6">2|*#Deselect|Ctrl+D|65507:29+68:32</K6>
+          <K7 lock="0" Actid="2" id="2" Motid="7">2|*#Enter|Enter|65293:284</K7>
+          <K8 lock="0" Actid="2" id="2" Motid="8">2|Esc|Esc|65307:1</K8>
+        </K>
+      </Default>
+      <CommonAPP>
+        <K cID="0">
+          <Set enable="1" id="0" lock="0" name="">
+            <K1 lock="0" Actid="2" id="2">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+            <K2 lock="0" Actid="2" id="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+            <K3 lock="0" Actid="2" id="2">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+            <K4 lock="0" Actid="2" id="2">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+            <K5 lock="0" Actid="2" id="2">2|*#Save|Ctrl+S|65507:29+83:31</K5>
+            <K6 lock="0" Actid="2" id="2">2|*#Deselect|Ctrl+D|65507:29+68:32</K6>
+            <K7 lock="0" Actid="2" id="2">2|*#Enter|Enter|65293:284</K7>
+            <K8 lock="0" Actid="2" id="2">2|Esc|Esc|65307:1</K8>
+          </Set>
+          <Set enable="0" id="1" lock="0" name="">
+            <K1 lock="0" Actid="2" id="2">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+            <K2 lock="0" Actid="2" id="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+            <K3 lock="0" Actid="2" id="2">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+            <K4 lock="0" Actid="2" id="2">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+            <K5 lock="0" Actid="2" id="2">2|*#Save|Ctrl+S|65507:29+83:31</K5>
+            <K6 lock="0" Actid="2" id="2">2|*#Deselect|Ctrl+D|65507:29+68:32</K6>
+            <K7 lock="0" Actid="2" id="2">2|*#Enter|Enter|65293:284</K7>
+            <K8 lock="0" Actid="2" id="2">2|Esc|Esc|65307:1</K8>
+          </Set>
+          <Set enable="0" id="2" lock="0" name="">
+            <K1 lock="0" Actid="2" id="2">2|*#Undo|Ctrl+Z|65507:29+90:44</K1>
+            <K2 lock="0" Actid="2" id="2">2|*#Redo|Ctrl+Shift+Z|65507:29+65505:42+89:21</K2>
+            <K3 lock="0" Actid="2" id="2">2|*#Copy|Ctrl+C|65507:29+67:46</K3>
+            <K4 lock="0" Actid="2" id="2">2|*#Paste|Ctrl+V|65507:29+86:47</K4>
+            <K5 lock="0" Actid="2" id="2">2|*#Save|Ctrl+S|65507:29+83:31</K5>
+            <K6 lock="0" Actid="2" id="2">2|*#Deselect|Ctrl+D|65507:29+68:32</K6>
+            <K7 lock="0" Actid="2" id="2">2|*#Enter|Enter|65293:284</K7>
+            <K8 lock="0" Actid="2" id="2">2|Esc|Esc|65307:1</K8>
+          </Set>
+        </K>
+      </CommonAPP>
+      <Apps/>
+    </Radial>
+  </Tools>
+  <AppList/>
+</Root>
